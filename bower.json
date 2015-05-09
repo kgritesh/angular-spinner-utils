@@ -1,0 +1,26 @@
+{
+  "name": "angular-spinner",
+  "version": "0.1",
+  "authors": [
+    "Ritesh Kadmawala <ritesh@voxapp.com>"
+  ],
+  "description": "Multipe angular spinners",
+  "main": "angular-spinner-text.js",
+  "keywords": [
+    "angular-spinner",
+    "spinner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spin.js": "~2.1.0",
+    "angular": "~1.3.15",
+    "angular-bootstrap": "~0.13.0"
+  }
+}
